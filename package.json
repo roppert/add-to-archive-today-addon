@@ -1,0 +1,9 @@
+{
+  "name": "add-to-archive-today",
+  "title": "Add to Archive Today",
+  "id": "jid1-2QAeDlQrlOwNIw",
+  "description": "A basic add-on to archive current page to archive.today and copy the URL to the clipboard.",
+  "author": "roppert",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
